@@ -1,0 +1,12 @@
+# Core Requirements
+customtkinter==5.2.2
+mysql-connector-python==8.0.33
+Pillow>=10.4.0
+
+# For building executable
+pyinstaller>=6.10.0
+
+# Optional (for future features)
+# requests==2.31.0
+# python-dotenv==1.0.0
+# cryptography==41.0.7
